@@ -24,12 +24,12 @@ location: Kanpur, Uttar Pradesh, India
 education:
   - B.Tech in Computer Science & Engineering (Artificial Intelligence)
   - Pranveer Singh Institute of Technology, Kanpur
-  - Aggregate: 74%
+  - Aggregate: 73%
 focus:
   - Computer Vision
   - Multimodal AI
   - LLM Systems
-  - Robotics & Autonomous Systems
+  - Agentic AI Systems
   - Human-Computer Interaction
 ```
 
