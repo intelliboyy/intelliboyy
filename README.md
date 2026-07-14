@@ -19,7 +19,7 @@
 ```yaml
 name: Anshuman Pathak
 handle: intelliboyy
-role: AI Research Student
+role: AI native Developer
 location: Kanpur, Uttar Pradesh, India
 education:
   - B.Tech in Computer Science & Engineering (Artificial Intelligence)
