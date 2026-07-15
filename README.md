@@ -39,7 +39,7 @@ focus:
 
 I am a research-driven Computer Science undergraduate focused on Artificial Intelligence, Computer Vision, and Multimodal Systems. I enjoy building practical AI systems that combine speech, vision, reasoning, and deployment on constrained hardware.
 
-My work includes LLM and TTS experimentation, real-time multimodal pipelines, VR applications, and research contributions in adaptive virtual environments and neuro-feedback driven systems. fileciteturn0file0L5-L8 fileciteturn0file0L35-L53
+My work includes RAG Architecture experimentation, real-time multimodal pipelines, VR applications, and research contributions in adaptive virtual environments and neuro-feedback driven systems. fileciteturn0file0L5-L8 fileciteturn0file0L35-L53
 
 ---
 
