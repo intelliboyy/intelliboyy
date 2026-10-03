@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="46" viewBox="0 0 176 46" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<defs>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow2" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#0f2a3a" stroke-width="1" opacity="0.55"/></pattern>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#062029"/></linearGradient>
+<linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#00f5d4"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="175" height="45" rx="8" fill="url(#bg)" stroke="#12324a"/><rect x="1" y="1" width="174" height="44" rx="8" fill="url(#grid)" opacity=".6"/><text x="16" y="28" font-size="11" fill="#7f93a8">02</text><text x="40" y="28" font-size="13" font-weight="700" fill="#e2e8f0" letter-spacing="1">EXPERTISE</text><rect x="12" y="38" width="152" height="2" rx="1" fill="#22d3ee" fill-opacity=".25"/><rect x="12" y="38" width="30" height="2" rx="1" fill="#22d3ee" filter="url(#glow2)"><animate attributeName="x" values="12;134;12" dur="3.8s" repeatCount="indefinite"/></rect><circle cx="160" cy="16" r="3" fill="#22d3ee"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+</svg>
